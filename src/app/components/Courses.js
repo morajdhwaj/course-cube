@@ -26,7 +26,7 @@ const Courses = () => {
             </div>
           </div>
         </div>
-        <div className="text-5xl mt-10 max-w-[110vh] gap-20 flex flex-col md:flex-row font-bold leading-20 mx-5 lg:mx-0 ">
+        <div className="text-5xl mt-40 max-w-[110vh] gap-20 flex flex-col md:flex-row font-bold leading-20 mx-5 lg:mx-0 ">
           <div className="md:w-[50%] flex flex-col gap-10">
             <h3 className=" text-4xl ">Secure Your Courses With Encryption</h3>
             <h5 className=" text-xl font-normal">
