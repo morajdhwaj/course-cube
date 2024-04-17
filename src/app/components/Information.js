@@ -3,9 +3,9 @@ import React from "react";
 
 const Information = () => {
   return (
-    <div className=" ">
+    <div className=" mx-5 md:mx-0 ">
       <div className=" mt-40 flex flex-col gap-5 items-center justify-center ">
-        <h2 className="text-5xl max-w-[110vh] text-center font-bold leading-20 ">
+        <h2 className="text-4xl sm:text-5xl max-w-[110vh] text-center font-bold leading-20 ">
           We help Creators and Educators Host, Market and Sell Their Courses
           Securely
         </h2>
